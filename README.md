@@ -8,3 +8,5 @@ show myself ; I want to see ; 别人不许看
 change again
 
 新加一些内容
+
+测试git status
