@@ -18,4 +18,6 @@ change again
 rebase测试~~~
 ................................
 
+使用rebase -i在rebase过程中插入新的修改 
+
 rebase解决冲突！@#
