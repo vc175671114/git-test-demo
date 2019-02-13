@@ -6,3 +6,5 @@ show myself ; I want to see
 按住shift 点击z两次，在commit中保存退出 
 
 change again
+
+新加一些内容
